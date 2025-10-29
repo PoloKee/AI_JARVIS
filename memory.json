@@ -1,0 +1,40 @@
+{
+  "interactions": [
+    {
+      "user": "hi whats ur name"
+    },
+    {
+      "jarvis": "You said: 'hi whats ur name'. I'm learning your preferences."
+    },
+    {
+      "user": "hello"
+    },
+    {
+      "jarvis": "Hello! How can I assist you today?"
+    },
+    {
+      "user": "hello"
+    },
+    {
+      "jarvis": "Hello! How can I assist you today?"
+    },
+    {
+      "user": "how are you"
+    },
+    {
+      "jarvis": "You said: 'how are you'. I'm learning your preferences."
+    },
+    {
+      "user": "15151 testing testing"
+    },
+    {
+      "jarvis": "You said: '15151 testing testing'. I'm learning your preferences."
+    },
+    {
+      "user": "1515123 testing test"
+    },
+    {
+      "jarvis": "You said: '1515123 testing test'. I'm learning your preferences."
+    }
+  ]
+}

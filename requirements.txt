@@ -1,0 +1,11 @@
+python-dotenv>=1.0.0
+pyttsx3>=2.90
+psutil>=5.9.5
+playsound>=1.3.0
+# Optional speech recognition (requires working microphone and drivers)
+SpeechRecognition>=3.10.0
+# On Windows, PyAudio may be required for microphone capture
+# PyAudio>=0.2.14
+pvporcupine>=2.2.0
+pyaudio>=0.2.14
+pvrecorder>=1.2.2
